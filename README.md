@@ -11,8 +11,8 @@ PyBer groups their cities into three categories (rual, suburban, and urban). The
 ![Summary Table](https://github.com/LindsayTeeters/Week-5-Pyber/blob/main/Resources/summary%20table.png)
 
 ![Summary Graph](https://github.com/LindsayTeeters/Week-5-Pyber/blob/main/Resources/Challenge_fare_summary.png)
-<!-- this was generated from the source file from the vba course work folder. My graph generated but I changed something and was unable to generate again --!>
 
 
-##Summary 
+## Summary 
 The data we generated for Pyber can help the decision makers by knowing the differences within the city groupings. The Urban rides make up 68% of the total rides and 81% of the drivers while their fare averages to be the lowest. It is okay to keep this rate lower as this is the bread and butter type of rides. The urban rides may be shorter and less expense but they are more frequent and can add up. If an increase is added to rides within the Urban grouping, I would suggest to keep the increase low. A 4.8% increase would increase the average fare up $1.00. Rural rides could incur a slightly higher increase as less options are available for this region. Howeever, competition could rise up so I would suggest to gradually increase fares over time. Suburban could be an area to look into to hiring drivers. They have 20% of the drivers that the Urban area has but they also have 49% of what the Uban area makes in fares. 
+
